@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "eaa788fa-e95d-4ff0-bf02-97626033d37d": {
+        "id": "eaa788fa-e95d-4ff0-bf02-97626033d37d",
+        "parent": null,
+        "name": "SBMerge.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "SBMerge.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs14.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "SBMerge"
+        },
+        "triggers": [],
+        "lastUpdated": 1628832333147
+      }
+    },
+    "openFiles": [
+      "eaa788fa-e95d-4ff0-bf02-97626033d37d"
+    ],
+    "currentFileId": "eaa788fa-e95d-4ff0-bf02-97626033d37d",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.9.4",
+    "projectName": "SBMerge",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1628832335658
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "sbmerge",
+      "url": "https://github.com/zgma-test/sbmerge"
+    }
+  }
+}
