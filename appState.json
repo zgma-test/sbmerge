@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "SBMerge.js",
         "cursor": {
-          "lineNumber": 2,
-          "column": 5
+          "lineNumber": 3,
+          "column": 48
         },
         "config": {
           "runtime": "nodejs14.x",
@@ -60,7 +60,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1628832335658
+    "lastSave": 1628832391945
   },
   "VCS_STATE": {
     "provider": "GitHub",
